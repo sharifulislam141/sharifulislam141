@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+<your-name>%F0%9F%91%8B;Web+Scraping+Expert+%E2%80%A2+Python+Automation;Learning+Machine+Learning+%26+AI;I+turn+websites+into+clean%2C+actionable+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shariful Islam%F0%9F%91%8B;Web+Scraping+Expert+%E2%80%A2+Python+Automation;Learning+Machine+Learning+%26+AI;I+turn+websites+into+clean%2C+actionable+data" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,11 +63,6 @@
   </a>
 </p>
 
-> **Idea prompts for your repos:**
-> - `ApolloScrapper`: modular scraping framework with rotating proxies, retries, and structured exporters.
-> - `GoogleMapScrapper`: Selenium/Playwright pipeline that clicks through sites and downloads PDFs with sane filenames.
-> - `NewsScrapper`: reusable spiders for common storefronts + price/stock trackers.
-> - `TwitterScrapper`: cleaned, deduped datasets + notebooks for feature exploration.
 
 ---
 
@@ -121,15 +116,6 @@
 
 ---
 
-### 📝 Quick Setup Notes (optional)
-- Replace all placeholders like `sharifulislam141` and `<your-name>`.
-- For **Pinned Repo Cards** & **Stats**, this README uses:
-  - `anuraghazra/github-readme-stats`
-  - `DenverCoder1/github-readme-streak-stats`
-- For the **typing header**, it uses `readme-typing-svg`.
-- For the **snake animation**, search for `Platane/snk` and follow the action setup to generate the SVG into an `output` branch.
-
----
 
 <p align="center">Made with ❤️, Python, and a lot of headless browsers.</p>
 
